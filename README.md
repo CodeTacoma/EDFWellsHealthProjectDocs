@@ -1,6 +1,8 @@
 # EDFWellsHealthProjectDocs
 documentation and artifacts for collaboration with the Enironmental Defense Fund
 
+project code will be kept elsewhere, this repo is just info and docs
+
 ### Code Tacoma & Environmental Defense Fund 
 #### the live project lives here:
 
